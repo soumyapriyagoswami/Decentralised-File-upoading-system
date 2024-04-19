@@ -25,7 +25,7 @@ This project facilitates decentralized image upload and sharing on the blockchai
 
    ```bash
    # Navigate to the root directory
-   cd Dgdrive3.0
+   cd Decentralised-File-uploading-system
    # Install hardhat dependencies
    npm install
    ```
